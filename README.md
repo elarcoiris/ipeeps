@@ -12,3 +12,9 @@ source .venv/bin/activate
 pip install instaloader
 instaloader -l USERNAME
 ```
+
+## Usage
+
+```bash
+python insta.py
+```
